@@ -21,6 +21,6 @@ public class Somme {
             }
 
         }
-        System.out.printf(resultat);
+        System.out.printf("" + resultat);
     }
 }
